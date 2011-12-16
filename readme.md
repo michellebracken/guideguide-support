@@ -1,0 +1,1 @@
+This is the official support repo for the GuideGuide Photoshop panel. Please make your bug reports or feature requests in the [issues](https://github.com/cameronmcefee/guideguide-support/issues) of this repo.
